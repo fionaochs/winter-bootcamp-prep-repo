@@ -1,0 +1,63 @@
+body{
+    background-color: lightskyblue;
+    text-align: center;
+}
+article{
+    color: aquamarine;
+}
+header{
+    color: aquamarine;
+    font-size: 40px;
+    font-style: italic;
+    display: inline-block;
+    margin: 0 auto;
+}
+.cat, cat2{
+    text-align: center;
+}
+p{
+    color: blue;
+}
+li{
+    color: blueviolet;
+    list-style: none;
+    text-align: center;
+}
+#special{
+    color: maroon;
+    font-size: 35px;
+
+}
+.item{
+    color: midnightblue;
+    font-size: 30px;
+    text-align: center;
+}
+#square{
+    height: 250;
+    width: 250;
+    border-radius: 15px;
+    background: coral;
+    align-content: center;
+    border: dotted yellow;
+    float: left;
+    margin-left: 25%;
+}
+#square2{
+    height: 250;
+    width: 250;
+    border-radius: 15px;
+    background: green;
+    align-content: center;
+    border: dotted yellow;
+    margin-left: 55%;
+    align-content: center;
+}
+
+.square-max{
+    width: 80%;
+    height: 200px;
+    background: aqua;
+    margin: auto;
+    padding: 10px;
+}
