@@ -60,4 +60,17 @@ li{
     background: aqua;
     margin: auto;
     padding: 10px;
+    cursor: pointer;
+}
+#square:hover{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(255, 0, 55);
+}
+#square2:hover{
+    height: 400px;
+
+    width: 400px;
+    background-color: rgb(255, 0, 106);
+    transition: all 2s;
 }
